@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Basharat Ali,
+- 👀 I’m interested in Asp.net, Asp.net Core, Asp.net MVC, Angular[Lates], C# and SQL Server.
+- 🌱 I’m currently learning on Blazor.
+- 💞️ I’m looking to collaborate on the remote working team.
+- 📫 contact me on RemoteHub for any inquiries, collaboration opportunities, or project discussions.
